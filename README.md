@@ -38,7 +38,7 @@
 ---
 
 ## 🤝 Connect With Me
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/oluwaseunlawal552))  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/oluwaseunlawal552)
 - 📧 [Email](oluwaseunlawal552@gmail.com)  
 
 ---
